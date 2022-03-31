@@ -1,0 +1,19 @@
+The following assignments were added to your Learning Plan:
+ONLINE, HR_0005, 17/Apr/2018 02:10 AM US/Eastern, Code of Conduct, 9/Apr/2022 11:59 PM US/Eastern
+ONLINE, HR_0002, 16/Apr/2018 06:58 AM US/Eastern, Greyt HR Employee, 29/Apr/2022 11:59 PM US/Eastern
+ONLINE, Domain_0004, 16/Apr/2018 06:43 AM US/Eastern, Overview of PHM, 14/Apr/2022 11:59 PM US/Eastern
+ONLINE, 3032, 30/Sep/2021 07:31 AM US/Eastern, POSH - Prevention of Sexual Harassment at Workplace,
+ONLINE, 6008, 21/Apr/2020 07:21 AM US/Eastern, Goal/KPI Creation, 14/May/2022 11:59 PM US/Eastern
+ONLINE, 14007, 5/May/2021 01:29 AM US/Eastern, Introduction and Importance of Karmic, 5/Apr/2022 11:59 PM US/Eastern
+ONLINE, HR_0022, 29/Mar/2019 03:07 AM US/Eastern, MS Team Application, 14/Apr/2022 11:59 PM US/Eastern
+ONLINE, HR_00013, 31/May/2018 07:28 AM US/Eastern, Confirmation Process - Employee, 29/Apr/2022 11:59 PM US/Eastern
+ONLINE, HR_0006, 17/Apr/2018 02:19 AM US/Eastern, ZePeople Employee Self review, 14/Apr/2022 11:59 PM US/Eastern
+ONLINE, 12002, 8/Feb/2021 05:50 AM US/Eastern, Information Security, 3/Apr/2022 11:59 PM US/Eastern
+ONLINE, 9006, 30/Sep/2020 10:22 AM US/Eastern, Jiva 6.3 - Jiva Product Overview, 14/Apr/2022 11:59 PM US/Eastern
+ONLINE, Compliance_0001, 17/Apr/2018 03:43 AM US/Eastern, Git Lab, 14/Apr/2022 11:59 PM US/Eastern
+ONLINE, HR_00015, 31/May/2018 07:38 AM US/Eastern, Performance Improvement Plan (PIP) Workflow - Employee, 29/Apr/2022 11:59 PM US/Eastern
+ONLINE, 6024, 12/May/2020 07:21 AM US/Eastern, Continuous Performance Management (CPM),
+ONLINE, HR_00018, 19/Dec/2018 02:13 AM US/Eastern, Introduction & Features of Yammer, 14/Apr/2022 11:59 PM US/Eastern
+ONLINE, 12006, 8/Feb/2021 07:46 AM US/Eastern, HIPAA Privacy and Security (US), 3/Apr/2022 11:59 PM US/Eastern
+ONLINE, HR_00011, 19/Apr/2018 09:14 AM US/Eastern, ZePeople Learning - Employee Workflow, 14/Apr/2022 11:59 PM US/Eastern
+ONLINE, Domain_0002, 16/Apr/2018 06:09 AM US/Eastern, Healthcare 102, 14/Apr/2022 11:59 PM US/Eastern
